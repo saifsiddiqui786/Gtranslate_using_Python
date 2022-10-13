@@ -60,32 +60,4 @@ lab_txt.place(x=100,y=360,height=20,width=300)
 dest_txt = Text(frame,font=("Time New Roman",20,"bold"),wrap=WORD)
 dest_txt.place(x=10,y=400,height=150,width=480)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 root.mainloop()
